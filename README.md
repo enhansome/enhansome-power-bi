@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,096 | 🐛 100 | 📅 2026-06-30, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,553 | 🐛 137 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,508 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,376 | 🐛 132 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,492 | 🐛 100 | 📅 2026-06-30, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,552 | 🐛 137 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,516 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,382 | 🐛 132 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -115,9 +115,9 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 125 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-04 — A sample bar chart visual, used for tutorial purposes.
 
-* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 76 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-10 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
+* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 76 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-10 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
 
-* [Sankey](https://github.com/Microsoft/powerbi-visuals-sankey) ⭐ 67 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-03 — Type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
+* [Sankey](https://github.com/Microsoft/powerbi-visuals-sankey) ⭐ 67 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-13 — Type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
 
 * [Force Graph](https://github.com/Microsoft/PowerBI-visuals-ForceGraph) ⭐ 62 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-15 — Allows to visualize the relationship between items, the weightage of the relationship and the flow often brings out the untold insights into limelight, which are otherwise not very evident.
 
@@ -125,7 +125,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) ⭐ 51 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-27 — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
 
-* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 46 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-04 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
+* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 46 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-13 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
 
 * [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 42 | 🐛 24 | 🌐 TypeScript | 📅 2026-05-27 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
