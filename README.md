@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,673 | 🐛 100 | 📅 2026-06-30, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,559 | 🐛 138 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,536 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,393 | 🐛 133 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,070 | 🐛 103 | 📅 2026-06-30, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,559 | 🐛 138 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,539 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,391 | 🐛 133 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -64,7 +64,7 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [DataViewUtils](https://github.com/Microsoft/powerbi-visuals-utils-dataviewutils) ⭐ 25 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-06 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-dataviewutils)) — provides set of tools to parse DataView object;
 * [ChartUtils](https://github.com/Microsoft/powerbi-visuals-utils-chartutils) ⭐ 25 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-04 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-chartutils)) — helps to create chart axes and drawing labels;
 * [ColorUtils](https://github.com/Microsoft/powerbi-visuals-utils-colorutils) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-31 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-colorutils)) — manages color manipulations;
-* [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ⭐ 18 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-30 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
+* [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ⭐ 18 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-17 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
 * [TestUtils](https://github.com/Microsoft/powerbi-visuals-utils-testutils) ⭐ 16 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-06 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-testutils)) — provides set of mocks and fakes in order to simplify creating unit tests for custom visuals.
 * [TypeUtils](https://github.com/Microsoft/powerbi-visuals-utils-typeutils) ⭐ 15 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-typeutils)) — extends the basic types of Power BI custom visuals;
 
@@ -111,7 +111,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 425 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-23 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
-* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 138 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-05 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
+* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 138 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-17 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
 * [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 125 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-04 — A sample bar chart visual, used for tutorial purposes.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
