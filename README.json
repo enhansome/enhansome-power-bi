@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 73689643,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:31:08Z",
+                "last_commit": "2026-08-24T14:50:45Z",
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
-                "stars": 28
+                "stars": 29
               }
             },
             {
@@ -506,7 +506,7 @@
                 "archived": false,
                 "id": 74892027,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:32:31Z",
+                "last_commit": "2026-08-24T15:52:48Z",
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-bulletchart",
                 "stars": 27
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:29.960Z",
+    "last_updated": "2026-08-25T05:15:46.540Z",
     "original_repository": "Rulikkk/awesome-power-bi",
     "original_repository_id": 126556511,
     "original_repository_sha": "bc22af31410b24cfdb22ef0c6d9c2f876264b51d",
