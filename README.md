@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,984 | 🐛 106 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,578 | 🐛 139 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,620 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,417 | 🐛 133 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,578 | 🐛 139 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,625 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,421 | 🐛 133 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -62,9 +62,9 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [InteractivityUtils](https://github.com/Microsoft/powerbi-visuals-utils-interactivityutils) ⚠️ Archived ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-interactivityutils)) — helps to implement cross-selection and cross-filtering;
 * [FormattingUtils](https://github.com/Microsoft/powerbi-visuals-utils-formattingutils) ⭐ 26 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-formattingutils)) — provides functionality to format values;
 * [DataViewUtils](https://github.com/Microsoft/powerbi-visuals-utils-dataviewutils) ⭐ 25 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-dataviewutils)) — provides set of tools to parse DataView object;
-* [ChartUtils](https://github.com/Microsoft/powerbi-visuals-utils-chartutils) ⭐ 25 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-chartutils)) — helps to create chart axes and drawing labels;
+* [ChartUtils](https://github.com/Microsoft/powerbi-visuals-utils-chartutils) ⭐ 25 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-chartutils)) — helps to create chart axes and drawing labels;
 * [ColorUtils](https://github.com/Microsoft/powerbi-visuals-utils-colorutils) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-colorutils)) — manages color manipulations;
-* [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ⭐ 18 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
+* [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ⭐ 18 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
 * [TestUtils](https://github.com/Microsoft/powerbi-visuals-utils-testutils) ⭐ 16 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-testutils)) — provides set of mocks and fakes in order to simplify creating unit tests for custom visuals.
 * [TypeUtils](https://github.com/Microsoft/powerbi-visuals-utils-typeutils) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-typeutils)) — extends the basic types of Power BI custom visuals;
 
@@ -109,7 +109,7 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:
 
-* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 426 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
+* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 427 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
 * [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 138 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-24 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
@@ -125,13 +125,13 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) ⭐ 51 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-24 — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
 
-* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 46 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-18 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
+* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 46 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-18 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
 
 * [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 42 | 🐛 24 | 🌐 TypeScript | 📅 2026-05-27 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
 
 * [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 40 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-24 - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
-* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 426 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24.
+* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 427 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24.
 
 * [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 39 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-03 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
 
@@ -147,13 +147,13 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Pulse Chart](https://github.com/Microsoft/powerbi-visuals-pulsechart) ⭐ 31 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 — Pulse chart shows a line chart annotated with key events. Each event can be selected to filter and cross highlight other visuals to reveal insights or help tell a story.
 
-* [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) ⭐ 27 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-25 — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
+* [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) ⭐ 27 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-26 — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
 
 * [Enhanced Scatter](https://github.com/Microsoft/powerbi-visuals-enhancedscatter) ⭐ 27 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 — A few more properties were added to the existing scatter chart visual, including shapes as markers, background image support, and developer crosshairs for positioning elements onto an image background.
 
 * [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 24 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-03 — A visual for displaying two correlated KPIs within a single visual.
 
-* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 23 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 23 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
 * [Dotplot](https://github.com/Microsoft/powerbi-visuals-dotplot) ⭐ 22 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 — A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
