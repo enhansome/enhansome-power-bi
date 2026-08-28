@@ -18,7 +18,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-interactivityutils",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-formattingutils",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-dataviewutils",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-chartutils",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-colorutils",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-tooltiputils",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-testutils",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-typeutils",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             }
           ],
           "description": "Power BI utils are set of tools that allow developer of Power BI visual to easily implement most common capabilities of visualizations.",
@@ -160,7 +169,8 @@
                 "owner": "jmarsik",
                 "repo": "SSASQueryProxy",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             }
           ],
           "description": "Power BI connectors and other tools that allow you to connect to various data sources.",
@@ -182,7 +192,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
                 "stars": 1137
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
                 "stars": 763
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             }
           ],
           "description": null,
@@ -224,8 +236,9 @@
                 "last_commit": "2026-08-24T11:58:54Z",
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 427
-              }
+                "stars": 430
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -236,11 +249,12 @@
                 "archived": false,
                 "id": 74892132,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:57:24Z",
+                "last_commit": "2026-08-28T00:39:07Z",
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-sampleBarChart",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ChicletSlicer",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sankey",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ForceGraph",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-timeline",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -330,7 +349,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-WordCloud",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -345,7 +365,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -360,7 +381,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sunburst",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sampleslicer",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-RadarChart",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-heatmap",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-chord",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-choropleth",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-histogram",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-mekkochart",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -495,7 +525,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-pulsechart",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-bulletchart",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-enhancedscatter",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dualkpi",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-AsterPlot",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dotplot",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -585,7 +621,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-globemap",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-streamgraph",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-linedotchart",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-funnel",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-player",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-cartogram",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
             }
           ],
           "description": "Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:",
@@ -672,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:29:17.593Z",
+    "last_updated": "2026-08-28T16:55:04.303Z",
     "original_repository_info": {
       "archived": false,
       "id": 126556511,
