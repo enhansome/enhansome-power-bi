@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVG utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73689643,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:50:45Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Interactivity utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73689286,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-28T10:26:05Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-interactivityutils",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formatting utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73689446,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:26:41Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-formattingutils",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "data view utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73364863,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:29:54Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-dataviewutils",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chart utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73685412,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T12:35:19Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-chartutils",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "color utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73685797,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:47:18Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-colorutils",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -108,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tooltip utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73688546,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:26:59Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-tooltiputils",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -124,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test utility interfaces for testing powerbi custom visuals",
+                "homepage": null,
                 "id": 73689919,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:27:56Z",
+                "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-testutils",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -140,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
                 "id": 73689099,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:28:02Z",
+                "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-typeutils",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             }
@@ -163,12 +208,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple proxy for getting MDX query results from Analysis Services (SSAS) instance accessed by using MSMDPUMP HTTP interface to Power BI Desktop / Service WITH support for scheduled refresh!",
+                "homepage": null,
                 "id": 228101291,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-05T06:36:36Z",
+                "open_issues": 1,
                 "owner": "jmarsik",
                 "repo": "SSASQueryProxy",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "analysis-services",
+                  "aspnet-web-api",
+                  "mdx",
+                  "msmdpump",
+                  "powerbi",
+                  "proxy",
+                  "ssas"
+                ]
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             }
@@ -186,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript library for embedding Power BI into your apps. Check out the docs website and wiki for more information.",
+                "homepage": null,
                 "id": 43329338,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-25T11:26:01Z",
+                "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1137
+                "stars": 1137,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -202,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Welcome to the .NET developer community for Power BI. Here you will find resources for the .NET SDKs for Power BI Embedded V2.0.0",
+                "homepage": "https://powerbi.microsoft.com/en-us/documentation/powerbi-developer-embedding/",
                 "id": 43329031,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-15T11:37:41Z",
+                "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 763
+                "stars": 763,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             }
@@ -231,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains tools for building/packaging Power BI visuals",
+                "homepage": "https://www.powerbi.com",
                 "id": 56180339,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:58:54Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 430
+                "stars": 430,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -247,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gantt chart is a type of bar chart which illustrates a project timeline or schedule. The Gantt Chart visual shows the Tasks, Start Dates, Durations, % Complete, and Resources for a project. The Gantt Chart visual can be used to show current schedule status using percent-complete shadings and a vertical \"TODAY\" line. The Legend may be used to group or filter tasks based upon data values.",
+                "homepage": null,
                 "id": 74892132,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T00:39:07Z",
+                "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -263,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bar Chart Custom Visual for tutorial.",
+                "homepage": null,
                 "id": 64516429,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-03-04T08:18:53Z",
+                "open_issues": 31,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-sampleBarChart",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -279,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for Power BI Chiclet Slicer custom visual",
+                "homepage": null,
                 "id": 70136613,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T11:03:25Z",
+                "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ChicletSlicer",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -295,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sankey is a type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.",
+                "homepage": null,
                 "id": 74892227,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:33:10Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sankey",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -311,12 +404,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for Power BI Force Graph custom visual",
+                "homepage": null,
                 "id": 70136465,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:57:12Z",
+                "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ForceGraph",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "powerbi",
+                  "powerbi-visuals-forcegraph"
+                ]
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -327,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Timeline slicer is a graphical date range selector used as a filtering component in the report canvas",
+                "homepage": null,
                 "id": 79335458,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T06:21:03Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-timeline",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -343,12 +449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for Power BI Word Cloud custom visual",
+                "homepage": null,
                 "id": 72530243,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T12:04:08Z",
+                "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-WordCloud",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -359,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for Power BI Tornado custom visual",
+                "homepage": null,
                 "id": 72530185,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T12:59:00Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -375,12 +491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.",
+                "homepage": null,
                 "id": 73903876,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-27T14:31:42Z",
+                "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sunburst",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -391,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "powerbi-visuals-webpack-plugin",
+                "homepage": null,
                 "id": 133464557,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:59:21Z",
+                "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -407,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Demonstrates creating a powerbi slicer visual using various powerbi filtering APIs and features.",
+                "homepage": null,
                 "id": 91243756,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-06T22:21:38Z",
+                "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sampleslicer",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -423,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for Power BI Radar Chart custom visual",
+                "homepage": null,
                 "id": 70136761,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T06:20:52Z",
+                "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-RadarChart",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -439,12 +575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "powerbi-visuals-heatmap",
+                "homepage": null,
                 "id": 86585552,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:58:25Z",
+                "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-heatmap",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -455,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A chord diagram is a graphical method of displaying the inter-relationships between data in a matrix.",
+                "homepage": null,
                 "id": 73904818,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-07T10:32:56Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-chord",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -471,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "powerbi-visuals-drilldown-choropleth",
+                "homepage": null,
                 "id": 94430066,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-22T16:10:55Z",
+                "open_issues": 40,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-choropleth",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -487,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A histogram chart plots data ranges into intervals. Useful for estimating density.",
+                "homepage": null,
                 "id": 73904941,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-15T18:29:42Z",
+                "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-histogram",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -503,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mekko chart is a mix of a 100% stacked column chart and a 100% stacked bar chart combined into one view. Similar to a treemap, the dimensional values are represented by length and width of each rectangle. The width of a column is proportional to the total value of the column.",
+                "homepage": null,
                 "id": 79335601,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:58:33Z",
+                "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-mekkochart",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -519,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pulse chart shows a line chart annotated with key events. Each events can be selected to filter and cross highlight other visuals to reveal insights or help tell a story. Pulse chart supports animation so you can load your report and watch it play through key events, without user interaction. This visualization is perfect for story telling with data, especially the Power BI publish to web feature. Use it anywhere you need to draw attention to events that shaped a trend.",
+                "homepage": null,
                 "id": 76835066,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:50:32Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-pulsechart",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -535,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.",
+                "homepage": null,
                 "id": 74892027,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T09:07:00Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-bulletchart",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -551,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A few more properties were added to the existing scatter chart visual, including shapes as markers, background image support, and developer crosshairs for positioning elements onto an image background.",
+                "homepage": null,
                 "id": 76835385,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:33:09Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-enhancedscatter",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -567,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A visual for displaying two correlated KPIs within a single visual.",
+                "homepage": null,
                 "id": 77608614,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-03T17:31:24Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dualkpi",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -583,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for Power BI Aster Plot custom visual",
+                "homepage": null,
                 "id": 72530076,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-27T08:58:12Z",
+                "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-AsterPlot",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -599,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.",
+                "homepage": null,
                 "id": 77452879,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:29:38Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dotplot",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -615,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A 3D visual using WebGL for plotting locations, with category values displayed as bar heights and heat maps. Shift+Click on bar to change center point. Slicing data points will animate to average location. ",
+                "homepage": null,
                 "id": 77453024,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-04-16T15:26:07Z",
+                "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-globemap",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -631,12 +827,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stacked area chart with smooth interpolation. Often used to display values over time.",
+                "homepage": null,
                 "id": 77453102,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T12:00:30Z",
+                "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-streamgraph",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "powerbi",
+                  "powerbi-visuals",
+                  "powerbi-visuals-streamgraph"
+                ]
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -647,12 +852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context. The bubbles size can be dynamic based on data you provide. A counter is provided that you can use to show a running value as the chart animates. Format options are provided for Lines, Dots, and Animation.",
+                "homepage": null,
                 "id": 76835238,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:33:48Z",
+                "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-linedotchart",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -663,12 +873,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Find outliers in your data, using a funnel plot",
+                "homepage": null,
                 "id": 95432662,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2023-07-08T03:35:11Z",
+                "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-funnel",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -679,12 +894,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "powerbi-visuals-drilldown-player",
+                "homepage": null,
                 "id": 94430366,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-02T19:57:29Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-player",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "powerbi",
+                  "powerbi-visuals"
+                ]
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -695,12 +918,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "powerbi-visuals-drilldown-cartogram",
+                "homepage": null,
                 "id": 94430236,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-08T03:05:18Z",
+                "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-cartogram",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             }
@@ -714,15 +942,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:55:04.303Z",
+    "last_updated": "2026-08-29T04:55:44.263Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
+      "homepage": null,
       "id": 126556511,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-15T07:42:07Z",
+      "open_issues": 1,
       "owner": "Rulikkk",
       "repo": "awesome-power-bi",
-      "stars": 142
+      "stars": 142,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "power-bi",
+        "powerbi"
+      ]
     },
     "original_repository_sha": "bc22af31410b24cfdb22ef0c6d9c2f876264b51d",
     "enhanced_repository": "enhansome/enhansome-power-bi",
