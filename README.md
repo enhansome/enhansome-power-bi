@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,973 | 🐛 105 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,580 | 🐛 144 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,644 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,427 | 🐛 133 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,280 | 🐛 105 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,580 | 🐛 145 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,657 | 🐛 26 | 📅 2026-05-03, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,434 | 🐛 133 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -58,7 +58,7 @@ This chapter covers topics related to building custom visuals and other ways to 
 
 Power BI utils are set of tools that allow developer of Power BI visual to easily implement most common capabilities of visualizations.
 
-* [SVGUtils](https://github.com/Microsoft/powerbi-visuals-utils-svgutils) ⭐ 29 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-svgutils)) — simplifies SVG manipulations;
+* [SVGUtils](https://github.com/Microsoft/powerbi-visuals-utils-svgutils) ⭐ 30 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-svgutils)) — simplifies SVG manipulations;
 * [InteractivityUtils](https://github.com/Microsoft/powerbi-visuals-utils-interactivityutils) ⚠️ Archived ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-interactivityutils)) — helps to implement cross-selection and cross-filtering;
 * [FormattingUtils](https://github.com/Microsoft/powerbi-visuals-utils-formattingutils) ⭐ 26 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-formattingutils)) — provides functionality to format values;
 * [DataViewUtils](https://github.com/Microsoft/powerbi-visuals-utils-dataviewutils) ⭐ 25 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-24 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-dataviewutils)) — provides set of tools to parse DataView object;
@@ -111,7 +111,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 430 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
-* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 138 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-28 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
+* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 139 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-28 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
 * [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 125 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-04 — A sample bar chart visual, used for tutorial purposes.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

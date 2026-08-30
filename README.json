@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -329,7 +329,7 @@
                 "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:20:20.660Z",
+    "last_updated": "2026-08-30T10:06:02.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
