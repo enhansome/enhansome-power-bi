@@ -518,7 +518,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-24T11:59:21Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
                 "stars": 40,
@@ -706,7 +706,7 @@
                 "id": 74892027,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-26T09:07:00Z",
+                "last_commit": "2026-08-30T10:26:06Z",
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-bulletchart",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:06:02.758Z",
+    "last_updated": "2026-08-31T11:07:27.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
