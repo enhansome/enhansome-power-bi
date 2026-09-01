@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1137,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -274,7 +274,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 763,
+                "stars": 762,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -326,7 +326,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T00:39:07Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
                 "stars": 139,
@@ -454,8 +454,8 @@
                 "id": 72530243,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T12:04:08Z",
-                "open_issues": 15,
+                "last_commit": "2026-08-31T16:34:00Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-WordCloud",
                 "stars": 51,
@@ -832,8 +832,8 @@
                 "id": 77453102,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T12:00:30Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-31T16:33:53Z",
+                "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-streamgraph",
                 "stars": 20,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:07:27.752Z",
+    "last_updated": "2026-09-01T09:35:13.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
