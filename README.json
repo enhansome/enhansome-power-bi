@@ -80,8 +80,8 @@
                 "id": 73364863,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T14:29:54Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-03T00:15:22Z",
+                "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-dataviewutils",
                 "stars": 25,
@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1136,
+                "stars": 1137,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -274,7 +274,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 762,
+                "stars": 763,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -308,7 +308,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -475,8 +475,8 @@
                 "id": 72530185,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-18T12:59:00Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-03T05:29:34Z",
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 46,
@@ -517,7 +517,7 @@
                 "id": 133464557,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-24T11:59:21Z",
+                "last_commit": "2026-09-03T00:00:45Z",
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
@@ -706,8 +706,8 @@
                 "id": 74892027,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T10:26:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-02T19:37:08Z",
+                "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-bulletchart",
                 "stars": 27,
@@ -748,7 +748,7 @@
                 "id": 77608614,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T13:57:16Z",
+                "last_commit": "2026-09-02T12:35:30Z",
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dualkpi",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:00:53.295Z",
+    "last_updated": "2026-09-03T09:10:08.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
