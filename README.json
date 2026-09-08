@@ -28,27 +28,6 @@
             },
             {
               "node_type": "item",
-              "title": "InteractivityUtils",
-              "description": "(npm) — helps to implement cross-selection and cross-filtering;",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Interactivity utility interfaces for creating powerbi custom visuals",
-                "homepage": null,
-                "id": 73689286,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2024-06-28T10:26:05Z",
-                "open_issues": 2,
-                "owner": "microsoft",
-                "repo": "powerbi-visuals-utils-interactivityutils",
-                "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:04.303Z"
-            },
-            {
-              "node_type": "item",
               "title": "FormattingUtils",
               "description": "(npm) — provides functionality to format values;",
               "children": [],
@@ -63,6 +42,27 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-formattingutils",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
+            },
+            {
+              "node_type": "item",
+              "title": "InteractivityUtils",
+              "description": "(npm) — helps to implement cross-selection and cross-filtering;",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Interactivity utility interfaces for creating powerbi custom visuals",
+                "homepage": null,
+                "id": 73689286,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2024-06-28T10:26:05Z",
+                "open_issues": 2,
+                "owner": "microsoft",
+                "repo": "powerbi-visuals-utils-interactivityutils",
                 "stars": 26,
                 "topics": []
               },
@@ -308,7 +308,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -475,8 +475,8 @@
                 "id": 72530185,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T11:39:35Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-07T10:28:13Z",
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 46,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:41:47.903Z",
+    "last_updated": "2026-09-08T09:04:45.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
