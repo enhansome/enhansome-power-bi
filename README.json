@@ -475,8 +475,8 @@
                 "id": 72530185,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T10:28:13Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-08T13:37:40Z",
+                "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 46,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:04:45.382Z",
+    "last_updated": "2026-09-09T09:09:51.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
