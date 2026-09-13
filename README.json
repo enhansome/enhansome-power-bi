@@ -274,7 +274,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 763,
+                "stars": 764,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -475,8 +475,8 @@
                 "id": 72530185,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T12:36:21Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-13T00:38:19Z",
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 46,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:49:04.066Z",
+    "last_updated": "2026-09-13T09:42:43.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
