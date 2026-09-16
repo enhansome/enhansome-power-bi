@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -455,7 +455,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T16:34:00Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-WordCloud",
                 "stars": 51,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:35:15.457Z",
+    "last_updated": "2026-09-16T09:29:54.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
