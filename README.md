@@ -4,11 +4,11 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,928 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,611 | 🐛 156 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,833 | 🐛 25 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,518 | 🐛 134 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,300 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,614 | 🐛 156 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,845 | 🐛 25 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,522 | 🐛 134 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
-Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/contributors) ⭐ 142 | 🐛 1 | 📅 2023-08-15, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/contributors) ⭐ 143 | 🐛 1 | 📅 2023-08-15, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Contents
 
@@ -76,7 +76,7 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 ### Other Development Resources
 
-* [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,139 | 🐛 76 | 🌐 TypeScript | 📅 2026-03-25 — JavaScript library for embedding Power BI into your apps.
+* [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,140 | 🐛 76 | 🌐 TypeScript | 📅 2026-03-25 — JavaScript library for embedding Power BI into your apps.
 * [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 764 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
 * [Power BI for Developers Overview](https://docs.microsoft.com/en-us/power-bi/developer/overview-of-power-bi-rest-api) — Answer to "What can developers do with Power BI?" question and a good starting point for developing with Power BI.
 * [Power BI and R](https://www.blue-granite.com/tutorials/power-bi-and-r) — Video-tutorial about Power BI and R, including R Scripts and R Visuals.
@@ -109,7 +109,7 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:
 
-* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 434 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-01 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
+* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 435 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-01 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
 * [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 139 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-28 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
@@ -131,7 +131,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 40 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
-* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 434 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-01.
+* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 435 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-01.
 
 * [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 39 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-03 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
