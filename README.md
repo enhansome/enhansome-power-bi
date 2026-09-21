@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,012 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,617 | 🐛 161 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,864 | 🐛 25 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,523 | 🐛 133 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,394 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,621 | 🐛 162 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,882 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,530 | 🐛 133 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -125,15 +125,15 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) ⭐ 51 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-31 — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
 
-* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 46 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-13 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
+* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 46 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-13 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
 
 * [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 42 | 🐛 24 | 🌐 TypeScript | 📅 2026-05-27 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
 
 * [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 40 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
-* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 435 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-01.
+* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 40 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-03 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
 
-* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 39 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-03 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
+* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 435 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-01.
 
 * [Heatmap](https://github.com/Microsoft/powerbi-visuals-heatmap) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 — Use this custom visual to build a table heat map that can be used to visualise and compare data values in an easy and intuitive way.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
