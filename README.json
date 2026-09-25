@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T02:54:36Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
                 "stars": 30,
@@ -39,7 +39,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:26:41Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-formattingutils",
                 "stars": 27,
@@ -102,7 +102,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T12:35:19Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-chartutils",
                 "stars": 25,
@@ -123,7 +123,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T02:54:11Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-colorutils",
                 "stars": 18,
@@ -144,7 +144,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T02:54:15Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-tooltiputils",
                 "stars": 18,
@@ -164,8 +164,8 @@
                 "id": 73689919,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T03:19:00Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-24T14:49:19Z",
+                "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-testutils",
                 "stars": 16,
@@ -186,7 +186,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T03:18:52Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-typeutils",
                 "stars": 15,
@@ -304,11 +304,11 @@
                 "id": 56180339,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T08:15:11Z",
+                "last_commit": "2026-09-25T07:09:21Z",
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 435,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -350,7 +350,7 @@
                 "open_issues": 31,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-sampleBarChart",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -413,7 +413,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ForceGraph",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "powerbi",
                   "powerbi-visuals-forcegraph"
@@ -507,27 +507,6 @@
             },
             {
               "node_type": "item",
-              "title": "Webpack plugin",
-              "description": "The plugin allows for developing custom visuals by using webpack to build a visual package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "powerbi-visuals-webpack-plugin",
-                "homepage": null,
-                "id": 133464557,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-03T00:00:45Z",
-                "open_issues": 9,
-                "owner": "microsoft",
-                "repo": "powerbi-visuals-webpack-plugin",
-                "stars": 40,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:04.303Z"
-            },
-            {
-              "node_type": "item",
               "title": "Radar",
               "description": "A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.",
               "children": [],
@@ -542,6 +521,27 @@
                 "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-RadarChart",
+                "stars": 41,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Webpack plugin",
+              "description": "The plugin allows for developing custom visuals by using webpack to build a visual package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "powerbi-visuals-webpack-plugin",
+                "homepage": null,
+                "id": 133464557,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-24T14:43:57Z",
+                "open_issues": 8,
+                "owner": "microsoft",
+                "repo": "powerbi-visuals-webpack-plugin",
                 "stars": 40,
                 "topics": []
               },
@@ -738,6 +738,27 @@
             },
             {
               "node_type": "item",
+              "title": "Aster",
+              "description": "An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repo for Power BI Aster Plot custom visual",
+                "homepage": null,
+                "id": 72530076,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-08-27T08:58:12Z",
+                "open_issues": 8,
+                "owner": "microsoft",
+                "repo": "PowerBI-visuals-AsterPlot",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
+            },
+            {
+              "node_type": "item",
               "title": "Dual KPI",
               "description": "A visual for displaying two correlated KPIs within a single visual.",
               "children": [],
@@ -753,27 +774,6 @@
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dualkpi",
                 "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:04.303Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Aster",
-              "description": "An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Repo for Power BI Aster Plot custom visual",
-                "homepage": null,
-                "id": 72530076,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-08-27T08:58:12Z",
-                "open_issues": 8,
-                "owner": "microsoft",
-                "repo": "PowerBI-visuals-AsterPlot",
-                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:30:29.188Z",
+    "last_updated": "2026-09-25T09:46:56.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
@@ -954,7 +954,7 @@
       "open_issues": 1,
       "owner": "Rulikkk",
       "repo": "awesome-power-bi",
-      "stars": 143,
+      "stars": 144,
       "topics": [
         "awesome",
         "awesome-list",
