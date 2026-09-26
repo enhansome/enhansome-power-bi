@@ -538,7 +538,7 @@
                 "id": 133464557,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T14:43:57Z",
+                "last_commit": "2026-09-25T09:58:22Z",
                 "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:46:56.112Z",
+    "last_updated": "2026-09-26T09:30:49.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
