@@ -325,7 +325,7 @@
                 "id": 74892132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T00:39:07Z",
+                "last_commit": "2026-09-29T17:55:15Z",
                 "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
@@ -475,8 +475,8 @@
                 "id": 72530185,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T15:13:08Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-29T13:27:18Z",
+                "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 46,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:53:33.541Z",
+    "last_updated": "2026-09-30T10:43:16.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
