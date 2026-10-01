@@ -164,7 +164,7 @@
                 "id": 73689919,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T14:49:19Z",
+                "last_commit": "2026-10-01T10:37:28Z",
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-testutils",
@@ -308,7 +308,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 436,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -685,8 +685,8 @@
                 "id": 76835066,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T11:50:32Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-30T12:01:51Z",
+                "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-pulsechart",
                 "stars": 31,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:43:16.123Z",
+    "last_updated": "2026-10-01T11:09:42.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
