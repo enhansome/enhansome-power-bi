@@ -325,7 +325,7 @@
                 "id": 74892132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T17:55:15Z",
+                "last_commit": "2026-10-02T00:37:07Z",
                 "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:09:42.669Z",
+    "last_updated": "2026-10-02T10:43:18.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
