@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -42,7 +42,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-formattingutils",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -63,7 +63,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-interactivityutils",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -84,7 +84,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-dataviewutils",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-chartutils",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -126,7 +126,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-colorutils",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -147,7 +147,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-tooltiputils",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -168,7 +168,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-testutils",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -185,11 +185,11 @@
                 "id": 73689099,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T03:18:52Z",
+                "last_commit": "2026-10-03T16:20:31Z",
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-typeutils",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -274,7 +274,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 765,
+                "stars": 766,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -308,7 +308,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 437,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -329,7 +329,7 @@
                 "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -350,7 +350,7 @@
                 "open_issues": 31,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-sampleBarChart",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -371,7 +371,7 @@
                 "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ChicletSlicer",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -392,7 +392,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sankey",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -413,7 +413,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ForceGraph",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "powerbi",
                   "powerbi-visuals-forcegraph"
@@ -437,7 +437,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-timeline",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -458,7 +458,7 @@
                 "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-WordCloud",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -479,7 +479,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -500,7 +500,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sunburst",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -521,7 +521,7 @@
                 "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-RadarChart",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -542,7 +542,7 @@
                 "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -563,7 +563,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-sampleslicer",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -584,7 +584,7 @@
                 "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-heatmap",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -605,7 +605,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-chord",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -626,7 +626,7 @@
                 "open_issues": 40,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-choropleth",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -647,7 +647,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-histogram",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -668,7 +668,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-mekkochart",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -689,7 +689,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-pulsechart",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -710,7 +710,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-bulletchart",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -731,7 +731,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-enhancedscatter",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -752,7 +752,7 @@
                 "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-AsterPlot",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -773,7 +773,7 @@
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dualkpi",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -794,7 +794,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dotplot",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -815,7 +815,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-globemap",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -836,7 +836,7 @@
                 "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-streamgraph",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "powerbi",
                   "powerbi-visuals",
@@ -861,7 +861,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-linedotchart",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -882,7 +882,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-funnel",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -903,7 +903,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-player",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "powerbi",
                   "powerbi-visuals"
@@ -927,7 +927,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-drilldown-cartogram",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:02:01.950Z",
+    "last_updated": "2026-10-04T10:44:48.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
