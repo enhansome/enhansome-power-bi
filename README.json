@@ -308,7 +308,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:44:48.937Z",
+    "last_updated": "2026-10-05T11:49:44.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
