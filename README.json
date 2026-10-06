@@ -250,7 +250,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-03-25T11:26:01Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
                 "stars": 1141,
@@ -329,7 +329,7 @@
                 "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:49:44.923Z",
+    "last_updated": "2026-10-06T10:20:52.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
