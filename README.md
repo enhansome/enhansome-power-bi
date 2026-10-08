@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,849 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,644 | 🐛 171 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,026 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,589 | 🐛 136 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,330 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,647 | 🐛 176 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,031 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,591 | 🐛 135 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -76,8 +76,8 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 ### Other Development Resources
 
-* [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,141 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-07 — JavaScript library for embedding Power BI into your apps.
-* [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 766 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
+* [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,140 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-07 — JavaScript library for embedding Power BI into your apps.
+* [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 767 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
 * [Power BI for Developers Overview](https://docs.microsoft.com/en-us/power-bi/developer/overview-of-power-bi-rest-api) — Answer to "What can developers do with Power BI?" question and a good starting point for developing with Power BI.
 * [Power BI and R](https://www.blue-granite.com/tutorials/power-bi-and-r) — Video-tutorial about Power BI and R, including R Scripts and R Visuals.
 * [Charticulator](https://charticulator.com/) enables you to create bespoke and reusable chart layouts without writing any code. The constructor allows to export chart as Power BI visual.
@@ -161,7 +161,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Stream Graph](https://github.com/Microsoft/powerbi-visuals-streamgraph) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 — A stacked area chart with smooth interpolation. Often used to display values over time.
 
-* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
+* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-24 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
 
 * [Funnel](https://github.com/Microsoft/powerbi-visuals-funnel) ⚠️ Archived — Find outliers in your data, using a funnel plot.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

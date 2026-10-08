@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1141,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -274,7 +274,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 766,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -858,7 +858,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:33:48Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-linedotchart",
                 "stars": 20,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:19:34.333Z",
+    "last_updated": "2026-10-08T11:36:13.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
