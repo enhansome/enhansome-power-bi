@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,330 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,647 | 🐛 176 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,031 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,591 | 🐛 135 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,563 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,648 | 🐛 177 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,038 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,597 | 🐛 135 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -76,8 +76,8 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 ### Other Development Resources
 
-* [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,140 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-07 — JavaScript library for embedding Power BI into your apps.
-* [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 767 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
+* [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,141 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-07 — JavaScript library for embedding Power BI into your apps.
+* [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 768 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
 * [Power BI for Developers Overview](https://docs.microsoft.com/en-us/power-bi/developer/overview-of-power-bi-rest-api) — Answer to "What can developers do with Power BI?" question and a good starting point for developing with Power BI.
 * [Power BI and R](https://www.blue-granite.com/tutorials/power-bi-and-r) — Video-tutorial about Power BI and R, including R Scripts and R Visuals.
 * [Charticulator](https://charticulator.com/) enables you to create bespoke and reusable chart layouts without writing any code. The constructor allows to export chart as Power BI visual.
@@ -109,31 +109,31 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:
 
-* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 440 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-25 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
+* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 441 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-25 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
 * [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 142 | 🐛 108 | 🌐 TypeScript | 📅 2026-10-02 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
-* [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 127 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-04 — A sample bar chart visual, used for tutorial purposes.
+* [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 128 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-04 — A sample bar chart visual, used for tutorial purposes.
 
-* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 78 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-25 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
+* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 79 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-25 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
 
 * [Sankey](https://github.com/Microsoft/powerbi-visuals-sankey) ⭐ 68 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-24 — Type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
 
-* [Force Graph](https://github.com/Microsoft/PowerBI-visuals-ForceGraph) ⭐ 64 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 — Allows to visualize the relationship between items, the weightage of the relationship and the flow often brings out the untold insights into limelight, which are otherwise not very evident.
+* [Force Graph](https://github.com/Microsoft/PowerBI-visuals-ForceGraph) ⭐ 65 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 — Allows to visualize the relationship between items, the weightage of the relationship and the flow often brings out the untold insights into limelight, which are otherwise not very evident.
+
+* [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) ⭐ 53 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-31 — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
 
 * [Timeline](https://github.com/Microsoft/powerbi-visuals-timeline) ⭐ 52 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-03 — Graphical date range selector used as a filtering component in the report canvas.
 
-* [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) ⭐ 52 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-31 — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
+* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 48 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-29 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
 
-* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 47 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-29 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
+* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-03 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
 
 * [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 43 | 🐛 24 | 🌐 TypeScript | 📅 2026-05-27 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
 
-* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 42 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-03 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
-
 * [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 41 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-25 - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
-* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 440 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-25.
+* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 441 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-25.
 
 * [Heatmap](https://github.com/Microsoft/powerbi-visuals-heatmap) ⭐ 39 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 — Use this custom visual to build a table heat map that can be used to visualise and compare data values in an easy and intuitive way.
 
@@ -151,7 +151,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Enhanced Scatter](https://github.com/Microsoft/powerbi-visuals-enhancedscatter) ⭐ 28 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 — A few more properties were added to the existing scatter chart visual, including shapes as markers, background image support, and developer crosshairs for positioning elements onto an image background.
 
-* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 25 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
 * [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-02 — A visual for displaying two correlated KPIs within a single visual.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
