@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,094 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,667 | 🐛 201 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,194 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,658 | 🐛 135 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,580 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,667 | 🐛 201 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,214 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,660 | 🐛 134 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -63,10 +63,10 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [InteractivityUtils](https://github.com/Microsoft/powerbi-visuals-utils-interactivityutils) ⚠️ Archived ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-interactivityutils)) — helps to implement cross-selection and cross-filtering;
 * [DataViewUtils](https://github.com/Microsoft/powerbi-visuals-utils-dataviewutils) ⭐ 26 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-21 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-dataviewutils)) — provides set of tools to parse DataView object;
 * [ChartUtils](https://github.com/Microsoft/powerbi-visuals-utils-chartutils) ⭐ 26 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-18 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-chartutils)) — helps to create chart axes and drawing labels;
-* [ColorUtils](https://github.com/Microsoft/powerbi-visuals-utils-colorutils) ⭐ 19 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-18 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-colorutils)) — manages color manipulations;
-* [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ⭐ 19 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-18 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
-* [TestUtils](https://github.com/Microsoft/powerbi-visuals-utils-testutils) ⭐ 17 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-16 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-testutils)) — provides set of mocks and fakes in order to simplify creating unit tests for custom visuals.
-* [TypeUtils](https://github.com/Microsoft/powerbi-visuals-utils-typeutils) ⭐ 16 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-16 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-typeutils)) — extends the basic types of Power BI custom visuals;
+* [ColorUtils](https://github.com/Microsoft/powerbi-visuals-utils-colorutils) ⭐ 19 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-22 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-colorutils)) — manages color manipulations;
+* [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ⭐ 19 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
+* [TestUtils](https://github.com/Microsoft/powerbi-visuals-utils-testutils) ⭐ 17 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-21 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-testutils)) — provides set of mocks and fakes in order to simplify creating unit tests for custom visuals.
+* [TypeUtils](https://github.com/Microsoft/powerbi-visuals-utils-typeutils) ⭐ 16 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-21 ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-typeutils)) — extends the basic types of Power BI custom visuals;
 
 ### Connectors
 
@@ -77,7 +77,7 @@ Power BI connectors and other tools that allow you to connect to various data so
 ### Other Development Resources
 
 * [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) ⭐ 1,140 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-07 — JavaScript library for embedding Power BI into your apps.
-* [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 768 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
+* [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) ⭐ 769 | 🐛 39 | 🌐 C# | 📅 2026-03-15 — .NET developer community for Power BI.
 * [Power BI for Developers Overview](https://docs.microsoft.com/en-us/power-bi/developer/overview-of-power-bi-rest-api) — Answer to "What can developers do with Power BI?" question and a good starting point for developing with Power BI.
 * [Power BI and R](https://www.blue-granite.com/tutorials/power-bi-and-r) — Video-tutorial about Power BI and R, including R Scripts and R Visuals.
 * [Charticulator](https://charticulator.com/) enables you to create bespoke and reusable chart layouts without writing any code. The constructor allows to export chart as Power BI visual.
@@ -153,7 +153,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
-* [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-20 — A visual for displaying two correlated KPIs within a single visual.
+* [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-21 — A visual for displaying two correlated KPIs within a single visual.
 
 * [Dotplot](https://github.com/Microsoft/powerbi-visuals-dotplot) ⭐ 23 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 — A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
