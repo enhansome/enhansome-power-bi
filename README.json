@@ -17,8 +17,8 @@
                 "id": 73689643,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T14:47:40Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-22T15:41:25Z",
+                "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-utils-svgutils",
                 "stars": 31,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:36:46.731Z",
+    "last_updated": "2026-10-23T09:33:18.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
