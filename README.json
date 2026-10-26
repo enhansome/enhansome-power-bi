@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -413,11 +413,32 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-ForceGraph",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "powerbi",
                   "powerbi-visuals-forcegraph"
                 ]
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Timeline",
+              "description": "Graphical date range selector used as a filtering component in the report canvas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Timeline slicer is a graphical date range selector used as a filtering component in the report canvas",
+                "homepage": null,
+                "id": 79335458,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-03T06:21:03Z",
+                "open_issues": 17,
+                "owner": "microsoft",
+                "repo": "powerbi-visuals-timeline",
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
             },
@@ -444,27 +465,6 @@
             },
             {
               "node_type": "item",
-              "title": "Timeline",
-              "description": "Graphical date range selector used as a filtering component in the report canvas.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Timeline slicer is a graphical date range selector used as a filtering component in the report canvas",
-                "homepage": null,
-                "id": 79335458,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-03T06:21:03Z",
-                "open_issues": 17,
-                "owner": "microsoft",
-                "repo": "powerbi-visuals-timeline",
-                "stars": 52,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:04.303Z"
-            },
-            {
-              "node_type": "item",
               "title": "Tornado",
               "description": "A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.",
               "children": [],
@@ -475,8 +475,8 @@
                 "id": 72530185,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T07:24:34Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-25T13:32:16Z",
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-Tornado",
                 "stars": 48,
@@ -500,7 +500,7 @@
                 "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-RadarChart",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -696,27 +696,6 @@
             },
             {
               "node_type": "item",
-              "title": "Bullet Chart",
-              "description": "A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.",
-                "homepage": null,
-                "id": 74892027,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-02T19:37:08Z",
-                "open_issues": 5,
-                "owner": "microsoft",
-                "repo": "powerbi-visuals-bulletchart",
-                "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:04.303Z"
-            },
-            {
-              "node_type": "item",
               "title": "Enhanced Scatter",
               "description": "A few more properties were added to the existing scatter chart visual, including shapes as markers, background image support, and developer crosshairs for positioning elements onto an image background.",
               "children": [],
@@ -731,6 +710,27 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-enhancedscatter",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bullet Chart",
+              "description": "A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.",
+                "homepage": null,
+                "id": 74892027,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-02T19:37:08Z",
+                "open_issues": 5,
+                "owner": "microsoft",
+                "repo": "powerbi-visuals-bulletchart",
                 "stars": 28,
                 "topics": []
               },
@@ -773,28 +773,7 @@
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-dualkpi",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:04.303Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dotplot",
-              "description": "A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.",
-                "homepage": null,
-                "id": 77452879,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-24T14:29:38Z",
-                "open_issues": 4,
-                "owner": "microsoft",
-                "repo": "powerbi-visuals-dotplot",
-                "stars": 23,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -815,6 +794,27 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-globemap",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:55:04.303Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Dotplot",
+              "description": "A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.",
+                "homepage": null,
+                "id": 77452879,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-24T14:29:38Z",
+                "open_issues": 4,
+                "owner": "microsoft",
+                "repo": "powerbi-visuals-dotplot",
                 "stars": 23,
                 "topics": []
               },
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:23:32.617Z",
+    "last_updated": "2026-10-26T10:29:37.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
