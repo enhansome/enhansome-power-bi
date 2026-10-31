@@ -329,7 +329,7 @@
                 "open_issues": 108,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-gantt",
-                "stars": 142,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:00:43.476Z",
+    "last_updated": "2026-10-31T10:35:07.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
