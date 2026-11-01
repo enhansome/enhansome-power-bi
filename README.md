@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,706 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,698 | 🐛 210 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,318 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,694 | 🐛 137 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,235 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,698 | 🐛 211 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,326 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,694 | 🐛 138 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -131,7 +131,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 43 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-28 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
 
-* [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 41 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-25 - The plugin allows for developing custom visuals by using webpack to build a visual package.
+* [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 41 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-01 - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
 * [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) ⚠️ Archived — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 444 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-25.
 
@@ -151,7 +151,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) ⭐ 28 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-02 — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
 
-* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-01 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
 * [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 — A visual for displaying two correlated KPIs within a single visual.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

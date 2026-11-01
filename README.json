@@ -538,8 +538,8 @@
                 "id": 133464557,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T09:58:22Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T01:41:58Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-webpack-plugin",
                 "stars": 41,
@@ -748,8 +748,8 @@
                 "id": 72530076,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-08-27T08:58:12Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T10:26:22Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-AsterPlot",
                 "stars": 26,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:35:07.227Z",
+    "last_updated": "2026-11-01T11:28:40.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
