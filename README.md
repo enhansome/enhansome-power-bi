@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,235 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,698 | 🐛 211 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,326 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,694 | 🐛 138 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,278 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,702 | 🐛 215 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,343 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,698 | 🐛 138 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -113,7 +113,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 141 | 🐛 108 | 🌐 TypeScript | 📅 2026-10-02 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
-* [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 128 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-28 — A sample bar chart visual, used for tutorial purposes.
+* [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 128 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-02 — A sample bar chart visual, used for tutorial purposes.
 
 * [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 79 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-28 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
 
@@ -121,15 +121,15 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Force Graph](https://github.com/Microsoft/PowerBI-visuals-ForceGraph) ⭐ 66 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 — Allows to visualize the relationship between items, the weightage of the relationship and the flow often brings out the untold insights into limelight, which are otherwise not very evident.
 
-* [Timeline](https://github.com/Microsoft/powerbi-visuals-timeline) ⭐ 53 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-28 — Graphical date range selector used as a filtering component in the report canvas.
+* [Timeline](https://github.com/Microsoft/powerbi-visuals-timeline) ⭐ 53 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-02 — Graphical date range selector used as a filtering component in the report canvas.
 
 * [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) ⭐ 53 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-31 — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
 
-* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 48 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-28 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
+* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) ⭐ 48 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-02 — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
 
-* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 44 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-28 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
+* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) ⭐ 44 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-02 — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
 
-* [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 43 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-28 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
+* [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) ⭐ 43 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-02 — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
 
 * [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) ⭐ 41 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-01 - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
@@ -137,7 +137,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Heatmap](https://github.com/Microsoft/powerbi-visuals-heatmap) ⭐ 39 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 — Use this custom visual to build a table heat map that can be used to visualise and compare data values in an easy and intuitive way.
 
-* [Chord Diagram](https://github.com/Microsoft/powerbi-visuals-chord) ⭐ 36 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-28 — A chord diagram is a graphical method of displaying the interrelationships between data in a matrix.
+* [Chord Diagram](https://github.com/Microsoft/powerbi-visuals-chord) ⭐ 36 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-02 — A chord diagram is a graphical method of displaying the interrelationships between data in a matrix.
 
 * [Choropleth](https://github.com/Microsoft/powerbi-visuals-drilldown-choropleth) ⚠️ Archived — Displays a hierarchical map set with each location filled in a color from specified values.
 
@@ -151,9 +151,9 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) ⭐ 28 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-02 — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
 
-* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-01 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-02 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
-* [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 — A visual for displaying two correlated KPIs within a single visual.
+* [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02 — A visual for displaying two correlated KPIs within a single visual.
 
 * [Globe Map](https://github.com/Microsoft/powerbi-visuals-globemap) ⚠️ Archived — A 3D visual using WebGL for plotting locations, with category values displayed as bar heights and heat maps.
 
@@ -161,7 +161,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Stream Graph](https://github.com/Microsoft/powerbi-visuals-streamgraph) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 — A stacked area chart with smooth interpolation. Often used to display values over time.
 
-* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-24 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
+* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-02 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
 
 * [Funnel](https://github.com/Microsoft/powerbi-visuals-funnel) ⚠️ Archived — Find outliers in your data, using a funnel plot.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
