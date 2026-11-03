@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,278 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,702 | 🐛 215 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,343 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,698 | 🐛 138 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,992 | 🐛 104 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,702 | 🐛 216 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,359 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,698 | 🐛 138 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -115,7 +115,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 128 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-02 — A sample bar chart visual, used for tutorial purposes.
 
-* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 79 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-28 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
+* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) ⭐ 79 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-02 — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
 
 * [Sankey](https://github.com/Microsoft/powerbi-visuals-sankey) ⭐ 68 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-24 — Type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
 
@@ -151,7 +151,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) ⭐ 28 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-02 — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
 
-* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-02 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-03 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
 * [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02 — A visual for displaying two correlated KPIs within a single visual.
 
@@ -159,7 +159,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Dotplot](https://github.com/Microsoft/powerbi-visuals-dotplot) ⭐ 23 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 — A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.
 
-* [Stream Graph](https://github.com/Microsoft/powerbi-visuals-streamgraph) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 — A stacked area chart with smooth interpolation. Often used to display values over time.
+* [Stream Graph](https://github.com/Microsoft/powerbi-visuals-streamgraph) ⭐ 21 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-03 — A stacked area chart with smooth interpolation. Often used to display values over time.
 
 * [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-02 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
