@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1141,
+                "stars": 1142,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -308,7 +308,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 444,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -748,8 +748,8 @@
                 "id": 72530076,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-03T08:18:17Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-04T09:26:29Z",
+                "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-AsterPlot",
                 "stars": 26,
@@ -832,7 +832,7 @@
                 "id": 77453102,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T11:31:18Z",
+                "last_commit": "2026-11-03T13:30:59Z",
                 "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-streamgraph",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:19:21.768Z",
+    "last_updated": "2026-11-04T12:30:15.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
