@@ -253,7 +253,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "PowerBI-JavaScript",
-                "stars": 1142,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:30:15.431Z",
+    "last_updated": "2026-11-05T12:43:21.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
