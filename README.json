@@ -274,7 +274,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "PowerBI-CSharp",
-                "stars": 770,
+                "stars": 771,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -308,7 +308,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-tools",
-                "stars": 446,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:04.303Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:43:21.481Z",
+    "last_updated": "2026-11-06T12:27:08.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
