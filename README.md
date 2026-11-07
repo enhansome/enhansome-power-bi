@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,105 | 🐛 103 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,708 | 🐛 220 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,394 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,710 | 🐛 138 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,805 | 🐛 103 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,706 | 🐛 221 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,407 | 🐛 24 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,709 | 🐛 138 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -151,7 +151,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) ⭐ 28 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-02 — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
 
-* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-04 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) ⭐ 26 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-06 — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 
 * [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02 — A visual for displaying two correlated KPIs within a single visual.
 
@@ -161,7 +161,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [Stream Graph](https://github.com/Microsoft/powerbi-visuals-streamgraph) ⭐ 21 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-03 — A stacked area chart with smooth interpolation. Often used to display values over time.
 
-* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-02 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
+* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-06 — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
 
 * [Funnel](https://github.com/Microsoft/powerbi-visuals-funnel) ⚠️ Archived — Find outliers in your data, using a funnel plot.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

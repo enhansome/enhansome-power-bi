@@ -748,7 +748,7 @@
                 "id": 72530076,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-04T09:26:29Z",
+                "last_commit": "2026-11-06T17:54:17Z",
                 "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "PowerBI-visuals-AsterPlot",
@@ -857,7 +857,7 @@
                 "id": 76835238,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T07:51:42Z",
+                "last_commit": "2026-11-06T23:54:44Z",
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "powerbi-visuals-linedotchart",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:27:08.961Z",
+    "last_updated": "2026-11-07T11:18:29.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️⭐️⭐️ Awesome Power BI dashboards, visuals, development resources, learning materials and more 🔥🔥🔥",
