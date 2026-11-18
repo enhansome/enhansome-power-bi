@@ -4,7 +4,7 @@
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,303 | 🐛 104 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,720 | 🐛 226 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,540 | 🐛 25 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,812 | 🐛 142 | 📅 2024-05-21.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,797 | 🐛 104 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,723 | 🐛 227 | 📅 2026-03-26,  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,545 | 🐛 25 | 📅 2026-09-02, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,821 | 🐛 142 | 📅 2024-05-21.
 
 Contributions are always welcome!
 
@@ -111,7 +111,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 
 * [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) ⭐ 448 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-25 — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
-* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 142 | 🐛 108 | 🌐 TypeScript | 📅 2026-10-02 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
+* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) ⭐ 143 | 🐛 108 | 🌐 TypeScript | 📅 2026-10-02 — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
 
 * [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) ⭐ 128 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-02 — A sample bar chart visual, used for tutorial purposes.
 
@@ -198,4 +198,4 @@ This section contains tutorials about *using Power BI*. If You are looking for d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
